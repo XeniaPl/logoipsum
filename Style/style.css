@@ -107,6 +107,11 @@
     color: #5454D4;
 }
 
+.button_transparent:hover{
+    background-color: #ebebee0d;
+    transition: 500ms;
+}
+
 .footer{
     background:rgba(255, 113, 67, 0.27);
     padding: 53px 0;

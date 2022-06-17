@@ -108,7 +108,7 @@
 }
 
 .button_transparent:hover{
-    background-color: #fdfdfdf0;
+    background-color: #fdfdfd;
     transition: 500ms;
 }
 

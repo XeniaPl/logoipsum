@@ -63,7 +63,7 @@
 }
 
 .button_orange:hover{
-    background-color: #ec683c;
+    background-color: #f46c3f;
     transition: 500ms;
 }
 
@@ -97,18 +97,18 @@
 }
 
 .button_violet:hover{
-    background-color: #4747ba;
+    background-color: #5050c9;
     transition: 500ms;
 }
 
 .button_transparent{
     background-color:#FFFFFF00;
-    border: 1px solid #5454D4;
+    border: 1px solid #5454D0;
     color: #5454D4;
 }
 
 .button_transparent:hover{
-    background-color: #f9f8f8;
+    background-color: #fefefe;
     transition: 500ms;
 }
 
